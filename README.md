@@ -1,13 +1,22 @@
 # ftp
 使用教程
+
 1、接收服务器(远程) ftp环境搭建
+
     http://www.freesshd.com/?ctt=download 
-    下载freeSSHd.exe文件，配置教程参见：https://blog.csdn.net/imjcoder/article/details/79171660
+    下载freeSSHd.exe文件
+    
+    配置教程参见：
+    https://blog.csdn.net/imjcoder/article/details/79171660
     
 2、本机 安装python环境
+
+
     https://www.python.org/downloads/release/python-374/
     
 3、本机安装git
+
+
     https://git-scm.com/download/win
     
 4、下载代码

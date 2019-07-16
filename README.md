@@ -27,10 +27,11 @@
     
     
 5、配置环境
+    
+    
     virtualenv venv
     pip install -r requirements.txt
-    
-    Linux/Mac os激活环境：source venv/bin/activate 
+    Linux/Mac os下激活环境：source venv/bin/activate 
     Windows下激活环境：venv/Scripts/activate
     修改text.py文件中的下面两行
     transport = paramiko.Transport(('172.16.74.39', 22))
